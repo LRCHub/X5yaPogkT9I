@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "筆舌",
+  "base_artist": "Radwimps",
+  "createdAt": "2025-12-08T06:55:57.627547Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "筆舌 - Hitsu Zetsu",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/01_筆舌_-_Hitsu_Zetsu_Radwimps.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "筆舌",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_筆舌_RADWIMPS.txt"
+    }
+  ]
+}
